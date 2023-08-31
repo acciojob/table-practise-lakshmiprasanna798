@@ -2,3 +2,6 @@
 table{
 	background-color:yellow
 }
+table,tr,th,td{
+	border:1px solid black
+}
